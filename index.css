@@ -176,3 +176,6 @@ select {
 .fprice {
     color: rgb(211, 138, 4);
 }
+.right button:hover {
+    cursor: pointer;
+}
